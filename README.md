@@ -1,0 +1,2 @@
+# RZCoin
+RZCoin
