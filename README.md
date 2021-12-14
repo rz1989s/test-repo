@@ -1,2 +1,2 @@
 # RZCoin
-RZCoin
+NFT and DeFi Project
